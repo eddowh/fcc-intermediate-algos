@@ -2,7 +2,7 @@
 
 * [x] [`sumAll.js`](./src/sumAll.js): Sum All Numbers in a Range
 * [x] [`diffArray.js`](./src/diffArray.js): Diff Two Arrays
-* [ ] Roman Numeral Converter
+* [x] [`convertToRoman.js`](./src/convertToRoman.js) Roman Numeral Converter
 * [ ] Where art thou
 * [ ] Search and Replace
 * [ ] Pig Latin
