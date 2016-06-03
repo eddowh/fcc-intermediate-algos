@@ -6,7 +6,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha test -R spec --recursive"
+    "test": "mocha test -R spec --recursive",
+    "test-watch": "mocha test -R spec --recursive --watch"
   },
   "repository": {
     "type": "git",

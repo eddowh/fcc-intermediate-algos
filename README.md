@@ -2,7 +2,7 @@
 
 * [x] [`sumAll.js`](./src/sumAll.js): Sum All Numbers in a Range
 * [x] [`diffArray.js`](./src/diffArray.js): Diff Two Arrays
-* [x] [`convertToRoman.js`](./src/convertToRoman.js) Roman Numeral Converter
+* [x] [`convertToRoman.js`](./src/convertToRoman.js): Roman Numeral Converter
 * [ ] Where art thou
 * [ ] Search and Replace
 * [ ] Pig Latin
@@ -26,5 +26,6 @@
 
 ```sh
 $ [sudo] npm install  # install test frameworks
-$ npm test
+$ npm run test
+$ npm run test-watch  # watch for changes and test while writing code
 ```
