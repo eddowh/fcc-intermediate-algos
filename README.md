@@ -3,7 +3,7 @@
 * [x] [`sumAll.js`](./src/sumAll.js): Sum All Numbers in a Range
 * [x] [`diffArray.js`](./src/diffArray.js): Diff Two Arrays
 * [x] [`convertToRoman.js`](./src/convertToRoman.js): Roman Numeral Converter
-* [ ] Where art thou
+* [x] [`whereAreYou.js`](./src/whereAreYou.js): Where art thou
 * [ ] Search and Replace
 * [ ] Pig Latin
 * [ ] DNA Pairing
