@@ -1,0 +1,17 @@
+{
+  "name": "intermediate_algorithm_scripting",
+  "version": "0.0.0",
+  "description": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test -R spec --recursive"
+  },
+  "author": "Eddo W. Hintoso",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "unit.js": "^2.0.0"
+  }
+}
