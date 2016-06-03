@@ -1,14 +1,24 @@
 {
-  "name": "intermediate_algorithm_scripting",
+  "name": "fcc-intermediate-algos",
   "version": "0.0.0",
-  "description": "",
+  "description": "Intermediate algorithm scripting, complete with unit tests",
   "directories": {
     "test": "test"
   },
   "scripts": {
     "test": "mocha test -R spec --recursive"
   },
-  "author": "Eddo W. Hintoso",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eddowh/fcc-intermediate-algos"
+  },
+  "keywords": [
+    "freecodecamp",
+    "javascript",
+    "mocha",
+    "algorithms"
+  ],
+  "author": "Eddo W. Hintoso <eddo.hintoso@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "mocha": "^2.5.3",
