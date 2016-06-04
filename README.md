@@ -4,7 +4,7 @@
 * [x] [`diffArray.js`](./src/diffArray.js): Diff Two Arrays
 * [x] [`convertToRoman.js`](./src/convertToRoman.js): Roman Numeral Converter
 * [x] [`whereAreYou.js`](./src/whereAreYou.js): Where art thou
-* [ ] Search and Replace
+* [x] [`myReplace.js`](./src/myReplace.js): Search and Replace
 * [ ] Pig Latin
 * [ ] DNA Pairing
 * [ ] Missing letters
