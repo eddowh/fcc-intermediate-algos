@@ -6,7 +6,7 @@
 * [x] [`whereAreYou.js`](./src/whereAreYou.js): Where art thou
 * [x] [`myReplace.js`](./src/myReplace.js): Search and Replace
 * [x] [`translatePigLatin.js`](./src/translatePigLatin.js): Pig Latin
-* [ ] DNA Pairing
+* [x] [`pairElement.js`](./src/pairElement.js): DNA Pairing
 * [ ] Missing letters
 * [ ] Boo who
 * [ ] Sorted Union
