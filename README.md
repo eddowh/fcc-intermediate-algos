@@ -5,7 +5,7 @@
 * [x] [`convertToRoman.js`](./src/convertToRoman.js): Roman Numeral Converter
 * [x] [`whereAreYou.js`](./src/whereAreYou.js): Where art thou
 * [x] [`myReplace.js`](./src/myReplace.js): Search and Replace
-* [ ] Pig Latin
+* [x] [`translatePigLatin.js`](./src/translatePigLatin.js): Pig Latin
 * [ ] DNA Pairing
 * [ ] Missing letters
 * [ ] Boo who
