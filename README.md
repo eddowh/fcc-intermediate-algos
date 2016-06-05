@@ -7,7 +7,7 @@
 * [x] [`myReplace.js`](./src/myReplace.js): Search and Replace
 * [x] [`translatePigLatin.js`](./src/translatePigLatin.js): Pig Latin
 * [x] [`pairElement.js`](./src/pairElement.js): DNA Pairing
-* [ ] Missing letters
+* [x] [`fearNotLetter.js`](./src/fearNotLetter.js): Missing letters
 * [ ] Boo who
 * [ ] Sorted Union
 * [ ] Convert HTML Entities
