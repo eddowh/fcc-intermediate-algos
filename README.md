@@ -8,7 +8,7 @@
 * [x] [`translatePigLatin.js`](./src/translatePigLatin.js): Pig Latin
 * [x] [`pairElement.js`](./src/pairElement.js): DNA Pairing
 * [x] [`fearNotLetter.js`](./src/fearNotLetter.js): Missing letters
-* [ ] Boo who
+* [x] [`booWho.js`](./src/booWho.js): Boo who
 * [ ] Sorted Union
 * [ ] Convert HTML Entities
 * [ ] Spinal Tap Case
