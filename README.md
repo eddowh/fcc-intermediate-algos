@@ -9,7 +9,7 @@
 * [x] [`pairElement.js`](./src/pairElement.js): DNA Pairing
 * [x] [`fearNotLetter.js`](./src/fearNotLetter.js): Missing letters
 * [x] [`booWho.js`](./src/booWho.js): Boo who
-* [ ] Sorted Union
+* [x] [`uniteUnique.js`](./src/uniteUnique.js): Sorted Union
 * [ ] Convert HTML Entities
 * [ ] Spinal Tap Case
 * [ ] Sum All Odd Fibonacci Numbers
