@@ -10,7 +10,7 @@
 * [x] [`fearNotLetter.js`](./src/fearNotLetter.js): Missing letters
 * [x] [`booWho.js`](./src/booWho.js): Boo who
 * [x] [`uniteUnique.js`](./src/uniteUnique.js): Sorted Union
-* [ ] Convert HTML Entities
+* [x] [`convertHTML.js`](./src/convertHTML.js): Convert HTML Entities
 * [ ] Spinal Tap Case
 * [ ] Sum All Odd Fibonacci Numbers
 * [ ] Sum All Primes
