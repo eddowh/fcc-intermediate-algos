@@ -12,7 +12,7 @@
 * [x] [`uniteUnique.js`](./src/uniteUnique.js): Sorted Union
 * [x] [`convertHTML.js`](./src/convertHTML.js): Convert HTML Entities
 * [x] [`spinalCase.js`](./src/spinalCase.js): Spinal Tap Case
-* [ ] Sum All Odd Fibonacci Numbers
+* [x] [`sumFibs.js`](./src/sumFibs.js): Sum All Odd Fibonacci Numbers
 * [ ] Sum All Primes
 * [ ] Smallest Common Multiple
 * [ ] Finders Keepers
