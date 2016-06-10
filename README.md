@@ -13,7 +13,7 @@
 * [x] [`convertHTML.js`](./src/convertHTML.js): Convert HTML Entities
 * [x] [`spinalCase.js`](./src/spinalCase.js): Spinal Tap Case
 * [x] [`sumFibs.js`](./src/sumFibs.js): Sum All Odd Fibonacci Numbers
-* [ ] Sum All Primes
+* [x] [`sumPrimes.js`](./src/sumPrimes.js): Sum All Primes
 * [ ] Smallest Common Multiple
 * [ ] Finders Keepers
 * [ ] Drop it
