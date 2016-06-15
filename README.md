@@ -15,7 +15,7 @@
 * [x] [`sumFibs.js`](./src/sumFibs.js): Sum All Odd Fibonacci Numbers
 * [x] [`sumPrimes.js`](./src/sumPrimes.js): Sum All Primes
 * [x] [`smallestCommons.js`](./src/smallestCommons.js): Smallest Common Multiple
-* [ ] Finders Keepers
+* [x] [`findElement.js`](./src/findElement.js): Finders Keepers
 * [ ] Drop it
 * [ ] Steamroller
 * [ ] Binary Agents
