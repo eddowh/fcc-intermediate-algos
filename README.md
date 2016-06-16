@@ -16,7 +16,7 @@
 * [x] [`sumPrimes.js`](./src/sumPrimes.js): Sum All Primes
 * [x] [`smallestCommons.js`](./src/smallestCommons.js): Smallest Common Multiple
 * [x] [`findElement.js`](./src/findElement.js): Finders Keepers
-* [ ] Drop it
+* [x] [`dropElements.js`](./src/dropElements.js): Drop it
 * [ ] Steamroller
 * [ ] Binary Agents
 * [ ] Everything Be True
