@@ -18,7 +18,7 @@
 * [x] [`findElement.js`](./src/findElement.js): Finders Keepers
 * [x] [`dropElements.js`](./src/dropElements.js): Drop it
 * [x] [`steamrollArray.js`](./src/steamrollArray.js): Steamroller
-* [ ] Binary Agents
+* [x] [`binaryAgent.js`](./src/binaryAgent.js): Binary Agents
 * [ ] Everything Be True
 * [ ] Arguments Optional 
 
