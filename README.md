@@ -19,7 +19,7 @@
 * [x] [`dropElements.js`](./src/dropElements.js): Drop it
 * [x] [`steamrollArray.js`](./src/steamrollArray.js): Steamroller
 * [x] [`binaryAgent.js`](./src/binaryAgent.js): Binary Agents
-* [ ] Everything Be True
+* [x] [`truthCheck.js`](./src/truthCheck.js): Everything Be True
 * [ ] Arguments Optional 
 
 # Development
